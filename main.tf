@@ -73,6 +73,7 @@ locals {
 
 locals {
   builder_filenames = {
+    "nodejs12.x" = "nodejs.js"
     "nodejs8.10" = "nodejs.js"
     "python2.7"  = "python.py"
     "python3.6"  = "python.py"
